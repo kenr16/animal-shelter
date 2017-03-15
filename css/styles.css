@@ -60,3 +60,44 @@ html {
   background-position: center;
   background-size: cover;
 }
+
+.col1 {
+  float: left;
+  width: 30%;
+  padding-top: 20px;
+
+}
+.col1 img {
+  width: 100%
+
+}
+
+.col1 p {
+  background-color: skyblue;
+  margin-top: 0px;
+  text-indent: 50px;
+  font-size: 25px;
+  color: black;
+  font-family: 'Crete Round', serif;
+  padding: 10px;
+}
+.col2 {
+  float: right;
+  width: 30%;
+  padding-top: 20px;
+
+}
+.col2 img {
+  width: 100%
+
+}
+
+.col2 p {
+  background-color: skyblue;
+  margin-top: 0px;
+  text-indent: 50px;
+  font-size: 25px;
+  color: black;
+  font-family: 'Crete Round', serif;
+  padding: 10px;
+}
