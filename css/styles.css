@@ -65,25 +65,18 @@ html {
 .splash {
   width: 100%;
   height: 550px;
+  background-position: center;
+  background-size: cover;
+}
+#splashhome {
   background-image: url(../img/splash.jpg);
-  background-position: center;
-  background-size: cover;
 }
-
-.splashlocation {
-  width: 100%;
-  height: 550px;
+#splashlocation {
   background-image: url(../img/tennisdog.jpg);
-  background-position: center;
-  background-size: cover;
 }
 
-.splashlegal {
-  width: 100%;
-  height: 550px;
+#splashlegal {
   background-image: url(../img/lawdog.jpg);
-  background-position: center;
-  background-size: cover;
 }
 
 .col1 {
