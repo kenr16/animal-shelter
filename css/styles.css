@@ -1,5 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
 html {
-  padding: 0px;
+  padding: 0;
+  background-color: #ffedcc;
+  margin: 0;
 }
 
 .topheader {
@@ -25,7 +32,8 @@ html {
   font-family: fantasy;
   font-size: 50px;
   padding-left: 20px;
-  padding-right: 250px;
+
+  padding-top: 30px;
 
 }
 .clear {
@@ -45,10 +53,11 @@ html {
 }
 
 .left-header ul li a {
+  font-family: monospace;
   font-size: 35px;
   color: #1199ff;
   text-decoration: none;
-  text-shadow: 2px 2px #aaaaff;
+  text-shadow: 2px 2px #5555ff;
   margin-right: 30px;
 
 }
@@ -63,13 +72,12 @@ html {
 
 .col1 {
   float: left;
-  width: 30%;
-  padding-top: 20px;
-
+  width: 25%;
+  padding-top: 10px;
 }
 .col1 img {
-  width: 100%
-
+  width: 100%;
+  border-radius: 15px;
 }
 
 .col1 p {
@@ -80,16 +88,18 @@ html {
   color: black;
   font-family: 'Crete Round', serif;
   padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 15px;
 }
 .col2 {
   float: right;
-  width: 30%;
-  padding-top: 20px;
+  width: 25%;
+  padding-top: 10px;
 
 }
 .col2 img {
-  width: 100%
-
+  width: 100%;
+  border-radius: 15px;
 }
 
 .col2 p {
@@ -100,4 +110,41 @@ html {
   color: black;
   font-family: 'Crete Round', serif;
   padding: 10px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+.colmiddle {
+  float: left;
+  background-color: pink;
+  width: 46%;
+  margin-left: 15px;
+  margin-top: 10px;
+  text-indent: 50px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 15px;
+
+}
+
+.colmiddle img {
+  width: 100%;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+.colmiddle p {
+  font-size: 20px;
+  padding: 15px;
+
+}
+
+.topbar {
+  padding: 10px;
+  background-color: salmon;
+  width: 100%;
+  border-radius: 15px;
+  width: 98%;
+
 }
