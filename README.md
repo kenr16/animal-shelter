@@ -1,12 +1,12 @@
-# _{Animal Shelter Webpage}_
+# _Animal Shelter Webpage_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Animal Shelter Website, March 2017_
 
-#### By _**{List of contributors}**_
+#### By _**Ken Rutan Sean Pierce**_
 
 ## Description
 
-_{This is a website for a theoretical animal shelter that makes extensive use of both divs and floating.  It represents some very significant progress towards professional webpage design. }_
+_This is a website for a theoretical animal shelter that makes extensive use of both divs and floating.  It represents some very significant progress towards professional webpage design.  It may be early work, but it has potential to grow._
 
 ## Setup/Installation Requirements
 
@@ -17,18 +17,18 @@ _{This is a website for a theoretical animal shelter that makes extensive use of
 
 ## Known Bugs
 
-_{There are currently no known bugs in the software of any kind. }_
+_There are currently no known bugs in the software of any kind._
 
 ## Support and contact details
 
-_{Contact either Ken or Sean through the github accounts attached to the file.}_
+_Contact either Ken or Sean through the github accounts attached to the file._
 
 ## Technologies Used
 
-_{This site was created exclusively with the use of HTML and CSS.}_
+_This site was created exclusively with the use of HTML and CSS._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
 Copyright (c) 2016 MIT Licence **_Ken Rutan and Sean Pierce_**
